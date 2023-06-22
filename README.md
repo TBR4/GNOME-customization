@@ -1,4 +1,4 @@
 # GNOME-customization
 
-## Made by TBR
+#### Made by TBR
 Customize your GNOME desktop to be aesthetic
