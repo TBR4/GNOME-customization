@@ -11,4 +11,6 @@ This a fast and simple dark theme GNOME customization pack which contains the fo
 
 
 # Results
-  
+![](https://github.com/TBR4/GNOME-customization/blob/main/results/1.png)  
+![](https://github.com/TBR4/GNOME-customization/blob/main/results/2png)  
+![](https://github.com/TBR4/GNOME-customization/blob/main/results/3.png)  
